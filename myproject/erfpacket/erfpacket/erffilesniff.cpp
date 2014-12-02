@@ -15,7 +15,6 @@ ErfFileSniff::~ErfFileSniff()
 	infile.close();
 }
 
-
 PtrPacket ErfFileSniff::next_packet()
 {
 	struct timeval tv;
