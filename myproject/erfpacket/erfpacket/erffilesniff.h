@@ -6,7 +6,6 @@
 using namespace Tins;
 using namespace std;
 
-
 #define TYPE_ETH 2
 
 #pragma pack(push,1)
