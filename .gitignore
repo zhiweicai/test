@@ -25,4 +25,7 @@
 # Executables
 *.exe
 *.out
-*.app
+
+# vc intermediate file
+*.pdb
+*.ilk
